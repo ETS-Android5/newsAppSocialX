@@ -1,4 +1,5 @@
-  
+The demo of application screen recording is in the video folder.
+
 Volley library is used the fetch the data from newsapi.org:
 implementation 'com.android.volley:volley:1.2.1'
 
