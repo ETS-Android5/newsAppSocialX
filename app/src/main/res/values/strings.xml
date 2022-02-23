@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">socialX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms"><u>Terms and condition</u></string>
+    <string name="default_web_client_id_new">1062894487638-fkth7gbek2dlds9arvv11jrlsn3e2hf9.apps.googleusercontent.com</string>
+</resources>

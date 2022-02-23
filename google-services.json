@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062894487638",
+    "firebase_url": "https://socialx-5175c-default-rtdb.firebaseio.com",
+    "project_id": "socialx-5175c",
+    "storage_bucket": "socialx-5175c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062894487638:android:3a001c438b39db3a5693f7",
+        "android_client_info": {
+          "package_name": "com.example.socialx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062894487638-fkth7gbek2dlds9arvv11jrlsn3e2hf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8-J9CQxMiK4RmrSOfDf1Y_L9Clq9tMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062894487638-fkth7gbek2dlds9arvv11jrlsn3e2hf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
